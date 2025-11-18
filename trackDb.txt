@@ -24,7 +24,7 @@ color 0,255,0
 
 track S61453_IP_Nacl_1_S23
 parent Coverage
-bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61453_IP_Nacl_1_S23.bw
+bigDataUrl https://zenodo.org/records/17602869/files/S61453_IP_Nacl_1_S23.bw
 shortLabel Nacl1_IP
 longLabel IP Nacl 1
 type bigWig
@@ -69,6 +69,7 @@ shortLabel C412_Input
 longLabel Input C412 1
 type bigWig
 color 0,0,128
+
 
 
 
