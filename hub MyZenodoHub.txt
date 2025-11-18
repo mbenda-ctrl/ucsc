@@ -3,3 +3,4 @@ shortLabel ZenodoHub
 longLabel Track hub con file bigWig da Zenodo
 genomesFile genomes.txt
 email m.benda@campus.unimib.it
+descriptionUrl https://github.com/mbenda-ctrl/ucsc/blob/main/README.md
