@@ -1,0 +1,9 @@
+ucsc/
+  hub.txt
+  genomes.txt
+  hg38/
+    trackDb.txt
+git add .
+git commit -m "Aggiungo hub files"
+git push
+
