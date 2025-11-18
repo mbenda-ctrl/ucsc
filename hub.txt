@@ -1,5 +1,5 @@
 ucsc/
-  hub.txt
+  hub MyZenodoHub.txt
   genomes.txt
   hg38/
     trackDb.txt
