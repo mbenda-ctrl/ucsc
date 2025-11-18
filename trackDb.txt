@@ -3,7 +3,6 @@ track Coverage
 superTrack on show
 shortLabel Coverage
 longLabel Coverage dei campioni ChIP/Input
-type bigWig
 visibility full
 
 # Sub-tracks
@@ -70,5 +69,6 @@ shortLabel C412_Input
 longLabel Input C412 1
 type bigWig
 color 0,0,128
+
 
 
