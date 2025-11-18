@@ -9,7 +9,7 @@ visibility full
 # Sub-tracks
 track S61447_Input_Nacl_1_S75
 parent Coverage
-bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61447_Input_Nacl_1_S75.bw/content
+bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61447_Input_Nacl_1_S75.bw
 shortLabel Nacl1_Input
 longLabel Input Nacl 1
 type bigWig
@@ -17,7 +17,7 @@ color 0,0,255
 
 track S61446_Input_Storm_1_S56
 parent Coverage
-bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61446_Input_Storm_1_S56.bw/content
+bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61446_Input_Storm_1_S56.bw
 shortLabel Storm1_Input
 longLabel Input Storm 1
 type bigWig
@@ -25,7 +25,7 @@ color 0,255,0
 
 track S61453_IP_Nacl_1_S23
 parent Coverage
-bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61453_IP_Nacl_1_S23.bw/content
+bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61453_IP_Nacl_1_S23.bw
 shortLabel Nacl1_IP
 longLabel IP Nacl 1
 type bigWig
@@ -33,7 +33,7 @@ color 255,0,0
 
 track S61449_Input_E11_1_S60
 parent Coverage
-bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61449_Input_E11_1_S60.bw/content
+bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61449_Input_E11_1_S60.bw
 shortLabel E11_Input
 longLabel Input E11 1
 type bigWig
@@ -41,7 +41,7 @@ color 255,165,0
 
 track S61445_Input_WT_1_S55
 parent Coverage
-bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61445_Input_WT_1_S55.bw/content
+bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61445_Input_WT_1_S55.bw
 shortLabel WT1_Input
 longLabel Input WT 1
 type bigWig
@@ -49,7 +49,7 @@ color 128,0,128
 
 track S61448_Input_Amr_1_S29
 parent Coverage
-bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61448_Input_Amr_1_S29.bw/content
+bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61448_Input_Amr_1_S29.bw
 shortLabel Amr1_Input
 longLabel Input Amr 1
 type bigWig
@@ -57,7 +57,7 @@ color 0,128,128
 
 track S61451_IP_WT_1_S77
 parent Coverage
-bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61451_IP_WT_1_S77.bw/content
+bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61451_IP_WT_1_S77.bw
 shortLabel WT1_IP
 longLabel IP WT 1
 type bigWig
@@ -65,9 +65,10 @@ color 128,128,0
 
 track S61450_Input_C412_1_S16
 parent Coverage
-bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61450_Input_C412_1_S16.bw/content
+bigDataUrl https://zenodo.org/api/records/17602869/draft/files/S61450_Input_C412_1_S16.bw
 shortLabel C412_Input
 longLabel Input C412 1
 type bigWig
 color 0,0,128
+
 
