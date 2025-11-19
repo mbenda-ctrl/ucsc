@@ -1,0 +1,24 @@
+# SuperTrack container
+track Coverage
+superTrack on show
+shortLabel Coverage
+longLabel Coverage dei campioni ChIP/Input
+visibility full
+
+# Sub-tracks
+track S61451_IP_WT_S77
+parent Coverage
+bigDataUrl https://zenodo.org/records/17602869/files/S61451_IP_WT_1_S77.bw
+shortLabel WT_1_IP
+longLabel IP WT 1
+type bigWig
+color 255,165,0
+
+
+track S61453_IP_Nacl_1_S23
+parent Coverage
+bigDataUrl https://zenodo.org/records/17602869/files/S61453_IP_Nacl_1_S23.bw
+shortLabel Nacl1_IP
+longLabel IP Nacl 1
+type bigWig
+color 255,0,0
