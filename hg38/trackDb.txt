@@ -22,3 +22,35 @@ shortLabel Nacl1_IP
 longLabel IP Nacl 1
 type bigWig
 color 255,0,0
+
+track S61452_IP_Storm_1_S58
+parent Coverage
+bigDataUrl https://zenodo.org/records/17602869/files/S61452_IP_Storm_1_S58.bw
+shortLabel Storm1_IP
+longLabel IP Storm 1
+type bigWig
+color 255,140,0
+
+track S61454_IP_Amr_1_S33
+parent Coverage
+bigDataUrl https://zenodo.org/records/17602869/files/S61454_IP_Amr_1_S33.bw
+shortLabel Amr1_IP
+longLabel IP Amr 1
+type bigWig
+color 255,69,0
+
+track S61455_IP_E11_1_S50
+parent Coverage
+bigDataUrl https://zenodo.org/records/17602869/files/S61455_IP_E11_1_S50.bw
+shortLabel E11_IP
+longLabel IP E11 1
+type bigWig
+color 255,0,0
+
+track S61456_IP_C412_1_S49
+parent Coverage
+bigDataUrl https://zenodo.org/records/17602869/files/S61456_IP_C412_1_S49.bw
+shortLabel C412_IP
+longLabel IP C412 1
+type bigWig
+color 200,0,0
